@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="shop.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <div id="header">
+        <div class="log">
+            <a href="index.html"><img src="img/logo.png" alt="website logo"></a>
+        </div>
+        <div>
+            <ul id="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a class="active" href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li id="lg-bag" class="myCart"> <!-- ADD CLASS  MYCART AND SPAN-->
+                    <i class="fa fa-shopping-bag"></i>
+                    <span id="badge">0</span>
+                </li>
+                <a href="#" id="close"> <i class="fa fa-times"></i></a>
+            </ul>
+        </div>
+        <div id="mobile">
+            <i class="fa myCart fa-shopping-bag"></i>
+            <i id="bar" class="fa fa-outdent"></i>
+        </div>
+    </div>
+
+    <!-- Hero Section "update" -->
+    <section id="page-header">
+        <h2>#StayStylish</h2>
+        <div class="findProduct">
+            <select name="category" id="category">
+                <option name="1" id="1">All</option>
+                <option name="1" id="1">men</option>
+                <option name="1" id="1">girl</option>
+                <option name="1" id="1">kid</option>
+            </select>
+            <input type="search" placeholder="search any product" spellcheck="false" autofocus autocomplete="true">
+            <button id="find" type="submit">Find</button>
+        </div>
+    </section>
+
+    <!-- Product sections -->
+    <div class="shopSection">
+        <div class="cartTab">
+            <h1>Shopping Cart <i class="fa fa-shopping-bag"></i></h1>
+            <div class="listCart">
+                <!-- 
+                <div class="listed">
+                     <img src="/img/products/n1.jpg">
+                    <div class="info">
+                        <h5>Product Name Lorem ipsum dolor sit amet.
+                        </h5>
+                        <p>price: 499</p>
+                        <div class="proCount">
+                            <button>-</button>
+                            <span>1</span>
+                            <button>+</button>
+                        </div>
+                    </div>
+                    <i class="fa fa-trash-o" aria-hidden="true"></i> 
+                </div> -->
+
+            </div>
+
+            <div class="cartBtns">
+                <button class="CartClose">Close</button>
+                <button class="CheckOut">Check Out <div id="amount">Amount:</div></button>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="Product">
+
+        <!-- <div class="pro">
+            <img src="https://i.imgur.com/xPDwUb3.jpg" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Astronaut T-Shirts</h5>
+                <div class="star">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                </div>
+                <h4>$99</h4>
+            </div>
+            <a href="#"> <i class="fa fa-cart-plus cart"></i></a>
+        </div> -->
+
+    </div>
+
+
+    <!-- preview image card -->
+    <div class="prevDetail">
+        <!-- <div class="preview">
+            <div class="pleft">
+                <img src="/img/products/f2.jpg" alt="image preview">
+            </div>
+            <div class="pright">
+                <div class="scat">category: dog</div>
+                <h3>Title: <span>a Lorem ipsum doloa aperiam saepe nobis, </span></h3>
+                <h4>Description: <span>Lorem ipsum dolor sit amet consectetuos animi totam iusto provident! </span>
+                </h4>
+                <p>Rating <i class="fa fa-star" aria-hidden="true"></i> <span>230</span></p>
+                <h3 id="pp">Price :💲<span>199</span></h3>
+                <div class="choose">
+                    <input id="count" type="number" value="1">
+                    <input type="color" id="color" >
+                </div>
+                <div class="pBtns">
+                   
+                    <button>&nbsp;&nbsp;  Wishlist <i class="fa fa-heart "></i> </button>
+                    <button>&nbsp;&nbsp;  Add to Cart <i class="fa fa-cart-plus"></i> </button>
+                </div>
+
+                <div class="close">&#10060</div>
+            </div>
+        </div> -->
+    </div>
+
+
+
+
+
+
+    <!-- newsletter -->
+    <section id="newsletter" class="section-p1 section-m1">
+        <div class="newstext">
+            <h4>Sign Up for Newsletter</h4>
+            <p>Get E-mail updates about our latest shop and
+                <span>
+                    Special Offers.
+                </span>
+            </p>
+        </div>
+        <div class="form">
+            <input type="text" name="emaill" id="email" placeholder="Your email address">
+            <button class="normal">Sing Up</button>
+        </div>
+    </section>
+
+    <!-- footer section -->
+    <footer class="section-p1">
+        <div class="col">
+            <img class="logo" src="img/logo.png" alt="">
+            <h4>Contact</h4>
+            <p>Address: Ram Krishna Nagar, Patna Bihar</p>
+            <p>Phone: +91 3873948820</p>
+            <p>Hours: 10:00 - 18:00, Mon - Sat</p>
+            <div class="follow">
+                <h4>Follow Us</h4>
+                <div class="icon">
+                    <i class="fa fa-facebook"></i>
+                    <i class="fa fa-twitter"></i>
+                    <i class="fa fa-instagram"></i>
+                    <i class="fa fa-pinterest"></i>
+                    <i class="fa fa-youtube"></i>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col">
+            <h4>About</h4>
+            <a href="#">About us</a>
+            <a href="#">Delivery Information</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Contact Us</a>
+        </div>
+        <div class="col">
+            <h4>My Account</h4>
+            <a href="#">Sign In</a>
+            <a href="#">View Cart</a>
+            <a href="#">My Wishlist</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help</a>
+        </div>
+        <div class="col install">
+            <h4>
+                Install App
+            </h4>
+            <p>From App Store or PlayStore</p>
+            <div class="row">
+                <img src="img/pay/app.jpg" alt="">
+                <img src="img/pay/play.jpg" alt="">
+            </div>
+            <p>Secured Payment Gateway</p>
+            <img src="img/pay/pay.png" alt="">
+        </div>
+
+    </footer>
+    <div class="copyright">
+        &copy; Cara Online Ecommerce, 2024
+    </div>
+
+    <script src="script.js"></script>
+    <script src="fetchProduct.js"></script>
+
+</body>
+
+</html>
