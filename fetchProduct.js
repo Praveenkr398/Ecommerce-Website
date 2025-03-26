@@ -1,4 +1,4 @@
-// let url = "https://fakestoreapi.com/products";
+let url = "https://fakestoreapi.com/products";
 
 let Container = document.querySelector(".Product");
 let inputBox = document.querySelector(".findProduct input");
@@ -67,8 +67,8 @@ function showDetail(product) {
 
 // fetch data from fake api store
 let fetchProduct = () => {
-  //   fetch(url)
-  fetch("/database.json")
+    fetch(url)
+  // fetch("/database.json")
     .then((res) => res.json())
     .then((products) => {
       products.forEach((product) => {
