@@ -1,5 +1,3 @@
-live : https://praveenkr398.github.io/e-commerce-_Website/ 
-
 # E-Commerce Website
 
 ## 🚀 Project Overview
@@ -36,7 +34,7 @@ This is a **modern, fully responsive** e-commerce website designed with a clean 
 ## 📂 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/Praveenkr398/Full-Responsive-Ecommerce-Website
    ```
 2. Navigate to the project folder:
    ```bash
@@ -45,7 +43,7 @@ This is a **modern, fully responsive** e-commerce website designed with a clean 
 3. Open `index.html` in your browser to explore the website.
 
 ## 🌍 Live Demo
-[Click Here](#) to check out the live demo of the project.
+[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) to check out the live demo of the project.
 
 ## 🔥 Why This Project Stands Out
 - ✅ **Scalable Code Structure** – Organized and maintainable codebase.
