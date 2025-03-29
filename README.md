@@ -3,6 +3,11 @@
 ## 🚀 Project Overview
 This is a **modern, fully responsive** e-commerce website designed with a clean and intuitive UI/UX, ensuring a seamless user experience across all devices. The project demonstrates strong front-end development skills, integrating dynamic functionalities and API-driven content.
 
+
+## 🌍 Live Demo
+[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) 
+to check out the live demo of the project.
+
 ## 🌟 Key Features
 ### 🔹 **Multi-Page Structure**
 - **Home Page** – Engaging landing page with featured products.
@@ -42,9 +47,6 @@ This is a **modern, fully responsive** e-commerce website designed with a clean 
    ```
 3. Open `index.html` in your browser to explore the website.
 
-## 🌍 Live Demo
-[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) 
-to check out the live demo of the project.
 
 ## 🔥 Why This Project Stands Out
 - ✅ **Scalable Code Structure** – Organized and maintainable codebase.
