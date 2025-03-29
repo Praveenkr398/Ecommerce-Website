@@ -43,7 +43,8 @@ This is a **modern, fully responsive** e-commerce website designed with a clean 
 3. Open `index.html` in your browser to explore the website.
 
 ## 🌍 Live Demo
-[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) to check out the live demo of the project.
+[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) 
+to check out the live demo of the project.
 
 ## 🔥 Why This Project Stands Out
 - ✅ **Scalable Code Structure** – Organized and maintainable codebase.
@@ -60,25 +61,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 🚀 **Explore, Use, and Enhance!**
-
-
-HOME PAGE: index.html
-![image](https://github.com/user-attachments/assets/5a6e786e-537a-480c-919b-e8f39f7297a4)
-
-Shop page: shop.html
-![image](https://github.com/user-attachments/assets/d5516c73-5283-48f8-ad61-b9151df928c1)
-
-Single Product page: sProduct.html
-![image](https://github.com/user-attachments/assets/6419d741-6310-4ca3-b76e-50a40a65bab7)
-
-Blog Page: blog.html
-![image](https://github.com/user-attachments/assets/790ab710-a1bf-4061-9cb6-a3bec1aca671)
-
-About us: about.html
-![image](https://github.com/user-attachments/assets/7e4c07db-783a-48a7-bbe1-34db30f65503)
-
-Contact us: contact.html
-![image](https://github.com/user-attachments/assets/7bcbbd99-192d-4d83-a82b-477c50608677)
-
-Cart page : kart.html
-![image](https://github.com/user-attachments/assets/3f8a3ba9-3269-4b90-bbf4-ab9a71f92e7b)
+![image](https://github.com/user-attachments/assets/d891c166-fbef-464c-ba36-6b141dacc3d1)
