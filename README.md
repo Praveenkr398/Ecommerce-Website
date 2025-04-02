@@ -5,9 +5,7 @@ This is a **modern, fully responsive** e-commerce website designed with a clean 
 
 
 ## 🌍 Live Demo
-[Click Here](https://praveenkr398.github.io/Full-Responsive-Ecommerce-Website/) 
-to check out the live demo of the project.
-
+[Click Here](https://praveenkr398.github.io/Ecommerce-Website/)
 
 Category:- "Website, HTML, CSS, JavaScript, Api, Top"
 
